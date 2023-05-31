@@ -1,6 +1,6 @@
 # Fibonacci Solitaire
 
-This program implements Fibonacci Solitaire, a card game that challenges players to create piles and identify Fibonacci sequences. It is written in C++ and allows you to play the game interactively.
+Fibonacci Solitaire is a C++ program that lets you play an engaging card game centered around creating piles and identifying Fibonacci sequences. The program guides you through the game, automatically performing calculations and checking for Fibonacci numbers.
 
 ## Game Objective
 
